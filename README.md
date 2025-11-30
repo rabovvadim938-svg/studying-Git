@@ -1,1 +1,2 @@
-# my-studying-Git
+# studying-Git
+
